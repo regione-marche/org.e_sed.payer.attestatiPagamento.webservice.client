@@ -4,14 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.e_sed.payer.attestatiPagamento.webservice.client</groupId>
 	<artifactId>org.e_sed.payer.attestatiPagamento.webservice.client</artifactId>
-	<version>1.1.0</version>
+	<version>1.2.0</version>
 	<name>org.e_sed.payer.attestatiPagamento.webservice.client</name>
 	<description>org.e_sed.payer.attestatiPagamento.webservice.client</description>
 	
    <parent>
       <groupId>it.maggioli.informatica.base.pom</groupId>
       <artifactId>pagonet-base</artifactId>
-      <version>1.4.0</version>
+      <version>1.5.0</version>
       <relativePath/>
    </parent>
 	
